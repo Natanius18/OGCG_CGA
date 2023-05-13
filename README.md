@@ -5,7 +5,7 @@
 <img src="https://github.com/Natanius18/OGCG_CGA/blob/master/images/zoom_in.png" width="350"/>
 <img src="https://github.com/Natanius18/OGCG_CGA/blob/master/images/zoom_out.png" width="350"/>
 
-- The user can use number keys to control which magnitudes are visible. If the user presses a number key then then all of the earthquakes at or above that magnitude will be shown. A textual display in the lower left corner will show which magnitudes are visiible.
+- The user can use number keys to control which magnitudes are visible. If the user presses a number key then then all of the earthquakes at or above that magnitude will be shown. A textual display in the lower left corner will show which magnitudes are visible.
 <img src="https://github.com/Natanius18/OGCG_CGA/blob/master/images/Magnitude_3.png" width="350"/>
 <img src="https://github.com/Natanius18/OGCG_CGA/blob/master/images/Magnitude_5.png" width="350"/>
 
